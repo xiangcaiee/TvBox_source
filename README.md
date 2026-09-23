@@ -2,7 +2,7 @@ TvBox Source
 
 个人自用影视接口配置，适用于 影视仓。
 
-国内访问 URL：
+中国大陆访问地址：
 
 https://cdn.jsdelivr.net/gh/xiangcaiee/TvBox_source@main/jiekou202609
 
